@@ -34,6 +34,13 @@ Here is an example of the Apache Airflow interface with the tasks of the ETL pro
 
 This is what a notification sent by the bot to the Telegram channel looks like:  
 <img src="img/image-4.png" alt="alt text" width="450" height="210"/>
+### Indicator Icons Explanation
+- 🔸 indicates that the online count is within the confidence interval.
+- ✖️ is below the lower bound of the confidence interval.
+- ✔️ is above the upper bound of the confidence interval.
+
+This allows determining if there's anything interesting happening on the stream (or possibly detecting viewer count manipulation).
+
 
 ## Conclusion
 
@@ -78,6 +85,13 @@ This project allows real-time tracking of streamer activity on popular platforms
 
 Вот как выглядит оповещение, отправленное ботом в телеграм-канал:  
 <img src="img/image-4.png" alt="alt text" width="470" height="210"/>
+
+### Обозначение значков
+- 🔸 говорит о том, что онлайн находится в доверительом интервале.
+- ✖️ ниже нижней границы доверительного интервала.
+- ✔️ выше верхней границы доверительного инвтервла.
+
+Это позволяет определить, есть ли что-то интересное на стриме (или возможно накрутку зрителей).
 
 
 ## Вывод
