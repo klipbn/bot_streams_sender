@@ -1,0 +1,17 @@
+{
+    "postgres": {
+        "dbname": "dbname",
+        "user": "user",
+        "password": "password",
+        "host": "host",
+        "port": "port"
+    },
+    "twitch": {
+        "client_id": "client_id",
+        "client_secret": "rclient_secret"
+    },
+    "telegram": {
+            "token": "token",
+            "notification_tables": "chat_id"
+    }
+}

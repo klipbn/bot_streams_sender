@@ -33,7 +33,7 @@ Here is an example of the Apache Airflow interface with the tasks of the ETL pro
 ## Example of the Result
 
 This is what a notification sent by the bot to the Telegram channel looks like:  
-<img src="img/image-4.png" alt="alt text" width="470" height="250"/>
+<img src="img/image-4.png" alt="alt text" width="450" height="210"/>
 
 ## Conclusion
 
@@ -77,7 +77,7 @@ This project allows real-time tracking of streamer activity on popular platforms
 ## Пример результата
 
 Вот как выглядит оповещение, отправленное ботом в телеграм-канал:  
-<img src="img/image-4.png" alt="alt text" width="470" height="250"/>
+<img src="img/image-4.png" alt="alt text" width="470" height="210"/>
 
 
 ## Вывод
