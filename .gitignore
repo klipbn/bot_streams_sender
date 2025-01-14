@@ -27,3 +27,4 @@ venv/*
 last_msg.txt
 .debris
 Icon
+.megaignore
